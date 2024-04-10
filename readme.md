@@ -1,0 +1,1 @@
+Following Data is used :https://www.kaggle.com/datasets/arjuntejaswi/plant-village
